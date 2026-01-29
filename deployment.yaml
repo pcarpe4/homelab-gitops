@@ -16,4 +16,4 @@ spec:
         - name: nginx
           image: registry.access.redhat.com/ubi8/nginx-120
           ports:
-            - containerPort: 80
+            - containerPort: 8080
